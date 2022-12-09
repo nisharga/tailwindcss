@@ -16,7 +16,7 @@ npm start for run react app
 
 <h2>Tailwind CSS 15 Parts Needs to watch </h2>
 
-<ul>
+<ul style="list-style: none">
   <li><b>1. Layout</b><li>
   <li><b>2. Flexbox & Grid</b><li>
   <li><b>3. Spacing</b><li>
