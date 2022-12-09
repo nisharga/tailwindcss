@@ -14,7 +14,12 @@ then index.css file peast this code on top
 
 npm start for run react app
 
-1.Layout
+<h2>Tailwind CSS 15 Parts Needs to watch </h2>
+
+<ul>
+  <li>1.Layout<li>
+<ul>
+
 2.Flexbox & Grid
 3.Spacing
 4.Sizing
