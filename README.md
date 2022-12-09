@@ -17,33 +17,26 @@ npm start for run react app
 <h2>Tailwind CSS 15 Parts Needs to watch </h2>
 
 <b>1.Layout</b><br>
-<b>1.Layout</b><br>
-<b>1.Layout</b><br>
-<b>1.Layout</b><br>
-<b>1.Layout</b><br>
-  <li>Flexbox & Grid<li>
-  <li>Spacing<li>
-  <li>Sizing<li>
-  <li>Typography<li>
-  <li>Backgrounds<li>
-<ol>
+<b>2.Flexbox & Grid</b><br>
+<b>3.Spacing</b><br>
+<b>4.Sizing</b><br>
+<b>5.Typography</b><br>
+<b>6.Backgrounds</b><br>
+<b>7.Borders</b><br>
+<b>8.Effects</b><br>
+<b>9.Filters</b><br>
+<b>10.Tables</b><br>
+<b>11.Transitions & Animation</b><br>
+<b>12.Transforms</b><br>
+<b>13.Interactivity</b><br>
+<b>14.SVG</b><br>
+<b>15.Accessibility</b><br>
 
 
 
 
 
-
-7.Borders
-8.Effects
-9.Filters
-10.Tables
-11.Transitions & Animation
-12.Transforms
-13.Interactivity
-14.SVG
-15.Accessibility
-
-5.Typography:
+<h2>5.Typography:</h2>
 
 FontSize: every rem meaning 16px; 0.25rem mean 4px;
 text-sm (14px)
