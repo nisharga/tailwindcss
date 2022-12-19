@@ -83,6 +83,23 @@ npm start for run react app
 <code>grid grid-cols-3 gap-4 place-items-center </code> === inside all div center<br/> 
 <code>place-self-center </code> === single item center<br/> 
 
+<hr>
+
+<h2>3.Spacing</h2>
+
+<code>px-1 py-1  </code> === padding x 4px right-left, and bottom-top<br/> 
+<code>px-5 py-5  </code> === padding x 20px right-left, and bottom-top<br/> 
+<code>pr, pl, pb, pt  </code> === padding right, left, bottom, top<br/> 
+<code>my-2.5 mx-2.5  </code> === margin y (4*2.5) 10px, x 10px<br/> 
+<code>m-16  </code> === (16*4) 64px all side<br/> 
+<code>space-x-8, space-y-8  </code> === (8*4) 32px margin left and margin top<br/> 
+
+<hr>
+
+<h2>3.Spacing</h2>
+
+
+
 
 <h2>5.Typography:</h2>
 
