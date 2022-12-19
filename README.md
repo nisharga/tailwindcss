@@ -36,20 +36,20 @@ npm start for run react app
 
 <h2>1.Layout:</h2>
 
-<code>container mx-auto</code> === container
-<code>columns-3</code> === for 3 column
-<code>break-after-column, break-before-column, break-inside-avoid-column </code> === start new column 
-<code>box-border, box-content </code> === box size
-<code>block, inline-block </code> === display property
-<code>inline-flex</code> === inline image+ content
-<code>float-left, float-right, clear-none </code> === preview like a newspaper
-<code>object-cover, object-contain, object-fill </code> === Object fit
-<code>overflow-visible, overflow-hidden </code> === overflow
-<code>static + absolute bottom-0 left-0 </code> === position absolute any object.
-<code>inset-x-0	</code> === left 0 right 0
-<code>inset-y-0 </code> === top 0 bottom 0
-<code>visible,invisible </code> === visibility 
-<code>z-10 </code> === Z for z-index
+<code>container mx-auto</code> === container <br/>
+<code>columns-3</code> === for 3 column <br/>
+<code>break-after-column, break-before-column, break-inside-avoid-column </code> === start new column  <br/>
+<code>box-border, box-content </code> === box size <br/>
+<code>block, inline-block </code> === display property <br/>
+<code>inline-flex</code> === inline image+ content <br/>
+<code>float-left, float-right, clear-none </code> === preview like a newspaper <br/>
+<code>object-cover, object-contain, object-fill </code> === Object fit <br/>
+<code>overflow-visible, overflow-hidden </code> === overflow <br/>
+<code>static + absolute bottom-0 left-0 </code> === position absolute any object. <br/>
+<code>inset-x-0	</code> === left 0 right 0 <br/>
+<code>inset-y-0 </code> === top 0 bottom 0 <br/>
+<code>visible,invisible </code> === visibility <br/>  
+<code>z-10 </code> === Z for z-index <br/>
 
 
 <h2>5.Typography:</h2>
