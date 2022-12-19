@@ -96,10 +96,24 @@ npm start for run react app
 
 <hr>
 
-<h2>3.Spacing</h2>
+<h2>4.Sizing</h2>
 
+<code>w-5 </code> === (5*4) 20px width <br/> 
+<code>w-2/3, w-3/4, w-3/12, w-11/12 </code> === 66% width, 75% width, 25% width, 91% width <br/> 
+<code>w-full </code> === 100% width <br/> 
+<code>min-w-[50%], min-w-full </code> === min width 50%, min width 100% <br/> 
+<code>min-w-0, min-w-min </code> === min width 0, min-width min content <br/> 
+<code>max-w-sm, max-w-md, max-w-lg, max-w-xl, max-w-2xl </code> === (24,28,32)rem*16 = px max width <br/>  
+<code>max-w-full, max-w-max </code> === 100%, max-content <br/> 
+<code>max-w-screen-sm, max-w-screen-md, max-w-screen-lg, max-w-screen-xl, max-w-screen-2xl </code> === 640px, 768px, 1024px, 1280px, 1536px <br/> 
+<code>h-10 </code> === (10*4) 40px height <br/> 
+<code>h-2/3, h-3/4, h-5/6 </code> === 66%, 75%, 83%, <br/> 
+<code>h-full, h-screen, h-[32rem] </code> === 100%, 100vh, 32rem height <br/> 
+<code>min-h-0, min-h-full, min-h-screen </code> === 0, 100%, 100vh <br/> 
+<code>min-h-max, min-h-fit, min-h-[50%] </code> === max-content, fit-content, 50% <br/> 
+<code>max-h-8, max-h-full </code> === (8*4) 32px, 100% <br/> 
 
-
+<hr>
 
 <h2>5.Typography:</h2>
 
