@@ -103,7 +103,7 @@ npm start for run react app
 <code>w-full </code> === 100% width <br/> 
 <code>min-w-[50%], min-w-full </code> === min width 50%, min width 100% <br/> 
 <code>min-w-0, min-w-min </code> === min width 0, min-width min content <br/> 
-<code>max-w-sm, max-w-md, max-w-lg, max-w-xl, max-w-2xl </code> === (24,28,32)rem*16 = px max width <br/>  
+<code>max-w-sm, max-w-md, max-w-lg, max-w-xl, max-w-2xl</code> === (24,28,32)rem*16 = px max width<br/>  
 <code>max-w-full, max-w-max </code> === 100%, max-content <br/> 
 <code>max-w-screen-sm, max-w-screen-md, max-w-screen-lg, max-w-screen-xl, max-w-screen-2xl </code> === 640px, 768px, 1024px, 1280px, 1536px <br/> 
 <code>h-10 </code> === (10*4) 40px height <br/> 
@@ -117,46 +117,26 @@ npm start for run react app
 
 <h2>5.Typography:</h2>
 
-FontSize: every rem meaning 16px; 0.25rem mean 4px;
-text-sm (14px)
-text-base(1rem)(16px)
-text-xl(1.25rem)(20px)
-text-2xl(1.5rem)(24px)
-
-italic font-mono (font-family: ui-monospace)(font-style: italic;)
-
-font-normal(font-weight: 400)
-font-semibold(font-weight: 600)
-font-bold(font-weight: 700)
-font-extrabold(font-weight: 800)
-font-black(font-weight: 900)
-
-diagonal-fractions(for half writing)
-
-tracking-[.25em](for spaceing in letter)
-
-leading-relaxed (line-height: 1.625rem)
-leading-loose (line-height: 2)
-
-list-disc (bulletList)
-list-decimal (number list)
-list-outside(for list start left)
-
-text-center, text-right, text-justify (for text align)
-
-text-current, text-slate-600, text-gray-900, text-zinc-800
-text-neutral-700, text-stone-500, text-amber-600, text-cyan-400
-text-teal-200, text-fuchsia-200
-
-text-blue-600/100 (color with opacity)
-text-[#50d71e] (rgb value)
-
-underline, overline, line-through, no-underline(no underline for a link)
-underline decoration-wavy (for bottom ~ design)
-
-uppercase, lowercase, capitalize, normal-case (text-transform: "")
-
-truncate (overflow: hidden;)
-
-align-bottom, align-top, align-middle (vertical-align: middle;)
+FontSize: every rem meaning 16px; 0.25rem mean 4px;  <br/> 
+<code>text-sm, text-base, text-xl, text-2xl </code> === (14px, 16, 20, 24px)  <br/> 
+<code>italic font-mono</code> === (font-family: ui-monospace)(font-style: italic;)  <br/> 
+<code>font-normal, font-semibold, font-bold, font-extrabold, font-black </code> === (font-weight: 400, 600, 700, 800, 900)   <br/> 
+<code>diagonal-fractions </code> === (for half writing) <br/> 
+<code>tracking-[.25em] </code> === (for spaceing in letter) <br/> 
+<code>leading-relaxed </code> === (line-height: 1.625rem) <br/> 
+<code>leading-loose </code> === (line-height: 2) <br/> 
+<code>list-disc </code> === (bulletList) <br/> 
+<code>list-decimal </code> ==== (number list) <br/> 
+<code>list-outside </code> === (for list start left) <br/> 
+<code>text-center, text-right, text-justify </code> === (for text align) <br/> 
+text-current, text-slate-600, text-gray-900, text-zinc-800 <br/> 
+text-neutral-700, text-stone-500, text-amber-600, text-cyan-400 <br/> 
+text-teal-200, text-fuchsia-200 </code>  <br/> 
+<code>text-blue-600/100 </code> === (color with opacity) <br/> 
+<code>text-[#50d71e] </code> ===(rgb value) <br/> 
+<code>underline, overline, line-through, no-underline </code> ===(no underline for a link) <br/> 
+<code>underline decoration-wavy </code> === (for bottom ~ design) <br/> 
+<code>uppercase, lowercase, capitalize, normal-case </code> === (text-transform: "") <br/> 
+<code>truncate </code> === (overflow: hidden;) <br/> 
+<code>align-bottom, align-top, align-middle </code> === (vertical-align: middle;) <br/> 
 
