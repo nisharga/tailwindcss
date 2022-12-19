@@ -27,6 +27,90 @@ npm start for run react app
 14.SVG
 15.Accessibility
 
+-------------------------------------------------------------------------
+
+1.Layout
+
+container mx-auto - container
+columns-3 - for 3 column
+break-after-column, break-before-column, break-inside-avoid-column - start new column 
+box-border, box-content - box size
+block, inline-block - display property
+inline-flex - inline image+ content
+float-left, float-right, clear-none - preview like a newspaper
+object-cover, object-contain, object-fill - Object fit
+overflow-visible, overflow-hidden - overflow
+static + absolute bottom-0 left-0 = position absolute any object.
+inset-x-0	= left 0 right 0
+inset-y-0 = top 0 bottom 0
+visible,invisible = visibility 
+Z for z-index
+
+-------------------------------------------------------------------------
+
+2.Flexbox & Grid
+
+flex flex-row === flex row wise
+flex flex-col-reverse === col reverse flex
+flex-wrap, flex-norap === flex wrap declire
+flex-none, flex-auto, flex-1 === no flex, auto mean width messure, 1 mean all same
+basis-2/5, basis-1/5 === 2/3 mean 40%, 1/5 mean 20%
+grow, shrink === grow mean bigger, shrink mean small
+order-last, order-first, order-1 === order of a div
+grid grid-cols-4 gap-4 === grid+column 4
+col-span-2 == double size col
+col-start-2, col-end-5 == start from 2 number, end before 5
+grid grid-rows-4 grid-flow-col === 4 item in a row
+(grid for more explore, plese read docs)
+gap-x-8 gap-y-4 === grid item gap
+flex justify-center === all items center
+justify-between, justify-around === between and around
+grid justify-items-center === all items center
+justify-self-end === in items... it will last
+justify-self-stretch === full width take
+content-center, content-between ==== inside div all items will center and between
+content-around, content-evenly === inside div all items will around and evenly
+items-center, items-end, items-baseline === indide div all items center, end
+self-center, self-end, self-stretch === single item apply
+(Place Conent for more visit doc)
+grid grid-cols-3 gap-4 place-items-center === inside all div center
+place-self-center === single item center
+
+-------------------------------------------------------------------------
+
+3.Spacing
+
+px-1 py-1 === padding x 4px right-left, and bottom-top
+px-5 py-5 === padding x 20px right-left, and bottom-top
+pr, pl, pb, pt === padding right, left, bottom, top
+my-2.5 mx-2.5 === margin y (4*2.5) 10px, x 10px
+m-16 === (16*4) 64px all side
+space-x-8, space-y-8 === (8*4) 32px margin left and margin top
+
+-------------------------------------------------------------------------
+
+4.Sizing
+
+w-5 === (5*4) 20px width
+w-2/3, w-3/4, w-3/12, w-11/12 === 66% width, 75% width, 25% width, 91% width
+w-full === 100% width
+min-w-[50%], min-w-full === min width 50%, min width 100%
+min-w-0, min-w-min === min width 0, min-width min content
+max-w-sm, max-w-md, max-w-lg, max-w-xl, max-w-2xl === (24,28,32)rem*16 = px max width 
+max-w-full, max-w-max === 100%, max-content
+max-w-screen-sm, max-w-screen-md, max-w-screen-lg, max-w-screen-xl, max-w-screen-2xl === 640px, 768px, 1024px, 1280px, 1536px
+
+h-10 === (10*4) 40px height
+h-2/3, h-3/4, h-5/6 === 66%, 75%, 83%,
+h-full, h-screen, h-[32rem] === 100%, 100vh, 32rem height
+min-h-0, min-h-full, min-h-screen === 0, 100%, 100vh
+min-h-max, min-h-fit, min-h-[50%] === max-content, fit-content, 50%
+
+max-h-8, max-h-full === (8*4) 32px, 100%
+
+
+-------------------------------------------------------------------------
+
 5.Typography:
 
 FontSize: every rem meaning 16px; 0.25rem mean 4px;
@@ -71,4 +155,8 @@ uppercase, lowercase, capitalize, normal-case (text-transform: "")
 truncate (overflow: hidden;)
 
 align-bottom, align-top, align-middle (vertical-align: middle;)
+
+
+-------------------------------------------------------------------------
+
 
