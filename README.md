@@ -52,6 +52,38 @@ npm start for run react app
 <code>z-10 </code> === Z for z-index <br/>
 
 
+<hr>
+
+
+<h2>2.Flexbox & Grid</h2>
+
+<code>flex flex-row</code> === flex row wise<br/> 
+<code>flex flex-col-reverse</code> === col reverse flex<br/> 
+<code>flex-wrap, flex-norap</code> === flex wrap declire<br/> 
+<code>flex-none, flex-auto, flex-1 </code> === no flex, auto mean width messure, 1 mean all same<br/> 
+<code>basis-2/5, basis-1/5 </code> === 2/3 mean 40%, 1/5 mean 20%<br/> 
+<code>grow, shrink </code> === grow mean bigger, shrink mean small<br/> 
+<code>order-last, order-first, order-1 </code> === order of a div<br/> 
+<code>grid grid-cols-4 gap-4 </code> === grid+column 4<br/> 
+<code>col-span-2 </code> == double size col<br/> 
+<code>col-start-2, col-end-5 </code> == start from 2 number, end before 5<br/> 
+<code>grid grid-rows-4 grid-flow-col </code> === 4 item in a row<br/> 
+<code>(grid for more explore, plese read docs)</code><br/> 
+<code>gap-x-8 gap-y-4 </code> === grid item gap<br/> 
+<code>flex justify-center </code> === all items center<br/> 
+<code>justify-between, justify-around </code> === between and around<br/> 
+<code>grid justify-items-center </code> === all items center<br/> 
+<code>justify-self-end </code> === in items... it will last<br/> 
+<code>justify-self-stretch </code> === full width take<br/> 
+<code>content-center, content-between </code> ==== inside div all items will center and between<br/> 
+<code>content-around, content-evenly </code> === inside div all items will around and evenly<br/> 
+<code>items-center, items-end, items-baseline </code> === indide div all items center, end<br/> 
+<code>self-center, self-end, self-stretch </code> === single item apply<br/> 
+<code>(Place Conent for more visit doc)</code><br/> 
+<code>grid grid-cols-3 gap-4 place-items-center </code> === inside all div center<br/> 
+<code>place-self-center </code> === single item center<br/> 
+
+
 <h2>5.Typography:</h2>
 
 FontSize: every rem meaning 16px; 0.25rem mean 4px;
