@@ -140,3 +140,25 @@ text-teal-200, text-fuchsia-200 </code>  <br/>
 <code>truncate </code> === (overflow: hidden;) <br/> 
 <code>align-bottom, align-top, align-middle </code> === (vertical-align: middle;) <br/> 
 
+<hr>
+
+<h2>6.Backgrounds</h2>
+
+<code>bg-fixed, bg-scroll </code> === Background image <br/> 
+<code>bg-clip-border, bg-clip-content </code> === background Clip Box <br/> 
+<code>bg-gray-200 bg-zinc-300 bg-neutral-400 bg-stone-500 </code> <br/> 
+<code>bg-amber-600 bg-lime-700 bg-emerald-800 bg-teal-900 </code> <br/> 
+<code>bg-cyan-100 bg-sky-200 bg-indigo-300 bg-violet-400 bg-purple-500 </code> <br/> 
+<code>bg-fuchsia-600 bg-pink-700 bg-rose-800 </code> <br/> 
+<code>bg-sky-500/100 </code> === bg color with opacity <br/> 
+<code>bg-[#50d71e] </code> === direct use <br/> 
+<code>bg-left-top, bg-right-bottom, bg-center </code> === bg position <br/> 
+<code>bg-no-repeat, bg-repeat-y, bg-repeat-round, bg-repeat-space </code> === bg repect <br/> 
+<code>bg-auto, bg-cover, bg-contain </code> === background size <br/> 
+<code>bg-gradient-to-r, bg-gradient-to-br, bg-gradient-to-tl </code> === right, bottom-right, top-left <br/> 
+<code>bg-gradient-to-r from-pink-500 via-lime-500 via-to-sky-800 </code> === gredient bg <br/> 
+
+
+
+
+
