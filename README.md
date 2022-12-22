@@ -159,6 +159,105 @@ text-teal-200, text-fuchsia-200 </code>  <br/>
 <code>bg-gradient-to-r from-pink-500 via-lime-500 via-to-sky-800 </code> === gredient bg <br/> 
 
 
+<hr>
+
+<h2>7.Borders</h2>
 
 
+<code>rounded, rounded-md, rounded-lg, rounded-full </code> === border round <br/>
+<code>border-2, border-4 </code> === border <br/>
+<code>border-x-2, border-y-2, border-r-4, border-l-4 </code> === border problem <br/>
+<code>border-violet-100, border-y-pink-900, border-4 border-indigo-500/100 </code> ==== border  <br/>
+<code>border-solid, border-dashed, border-dotted </code> === border style <br/>
+<code>outline-1, outline-0, outline-4 </code> === border outline <br/>
+<code>outline-2 outline-blue-500/50 </code> === outline color border <br/>
+<code>outline-dotted, outline-double </code> === outline style <br/>
+<code>outline-offset-2, outline-offset-4 </code> === outline offset border <br/>
+<code>ring-offset-2 ring-2 </code> === box-shadow <br/>
+<code>ring-2 ring-blue-500/50 </code> === ring color <br/>
+<code>ring-offset-2 ring-offset-slate-100 </code> === ring offset color <br/>
+
+<hr>
+
+<h2>8.Effects</h2>
+
+<code>shadow-md, shadow-lg, shadow-xl, shadow-2xl </code> === shadow <br/>
+<code>shadow-indigo-500/40 </code> === shadow color <br/>
+<code>opacity-50, opacity-75, opacity-100 </code> === opacity <br/>
+<code>mix-blend-multiply </code> === two circle together <br/>
+
+
+<hr>
+
+<h2>9.Filters</h2>
+
+
+<code>blur-sm, blur-lg </code> === blur
+<code>brightness-50, brightness-100, brightness-200 </code> === brightness <br/>
+<code>contrast-50, contrast-100, contrast-200 </code> === contrast <br/>
+<code>drop-shadow-lg, drop-shadow-xl, drop-shadow-2xl </code> === drop-shadow <br/>
+<code>grayscale-0, grayscale </code> === grayscale <br/>
+<code>hue-rotate-90, hue-rotate-180, -hue-rotate-60 </code> === hue-rotate <br/>
+<code>invert-0, invert </code> === invert <br/>
+<code>saturate-100, saturate-150, saturate-200 </code> === saturate <br/>
+<code>sepia-0, sepia </code> === sepia <br/>
+<code>backdrop-blur-md, backdrop-blur-xl </code> === backdrop-blur <br/>
+<code>backdrop-grayscale, backdrop-contrast-200, backdrop-brightness-200 </code> <br/>
+<code>backdrop-hue-rotate-180, backdrop-invert, backdrop-opacity-95 </code> <br/>
+<code>backdrop-saturate-200, backdrop-sepia </code> <br/>
+
+
+<hr>
+
+<h2>10.Tables</h2>
+
+
+<code>border-collapse, border-separate </code> === border <br/>
+<code>border border-slate-300</code> === table style <br/>
+<code>border-spacing-2</code> === table spacing <br/>
+<code>table-auto, table-fixed</code> === table fixed <br/>
+
+
+<hr>
+
+<h2>11.Transitions & Animation</h2>
+
+
+<code>transition, transition-shadow, transition-transform </code> === transition <br/>
+<code>duration-150, duration-300, duration-700 </code> === duration <br/>
+<code>ease-in, ease-in-out, ease-out </code> === transition timing  <br/>
+<code>delay-150, delay-300, delay-700 </code> === delay <br/>
+<code>animate-spin, animate-ping, animate-pulse, animate-bounce </code> === animation <br/>
+
+<hr>
+
+<h2>12.Transforms</h2>
+
+
+<code>scale-125, scale-50, -scale-50, transform-gpu </code> === transform <br/>
+<code>rotate-45, rotate-90, rotate-180 </code> === rotate <br/>
+<code>translate-y-6, -translate-y-6 </code> === translate <br/>
+<code>skew-y-6, skew-y-12 </code> === skew  <br/>
+<code>origin-center, origin-top-left </code> === origin <br/>
+
+<hr>
+
+<h2>13.Interactivity</h2>
+
+
+<code>cursor-auto, cursor-pointer, cursor-progress, cursor-zoom-in </code> === cursor <br/>
+<code>caret-pink-500, resize-y </code> === caret color + resize <br/> 
+<code>scroll-smooth, scroll-ml-6, scroll-pl-6</code> === scroll <br/>
+<code>snap-center, snap-start, snap-always, snap-y</code>	=== snap <br/>
+<code>overflow-auto touch-auto , will-change-scroll</code> === scrool <br/>
+<code>select-text, select-auto </code> === text highlight <br/>
+
+<hr>
+
+<h2>14.SVG && 15.Accessibility</h2>
+
+<code>fill-blue-500, stroke-cyan-500, stroke-1, stroke-2</code> === SVG <br/>
+<code>sr-only, not-sr-only </code> === Accessibility <br/>
+
+ 
 
