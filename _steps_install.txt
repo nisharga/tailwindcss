@@ -159,4 +159,121 @@ align-bottom, align-top, align-middle (vertical-align: middle;)
 
 -------------------------------------------------------------------------
 
+6.Backgrounds
 
+
+bg-fixed, bg-scroll === Background image
+bg-clip-border, bg-clip-content === background Clip Box
+bg-gray-200 bg-zinc-300 bg-neutral-400 bg-stone-500 
+bg-amber-600 bg-lime-700 bg-emerald-800 bg-teal-900
+bg-cyan-100 bg-sky-200 bg-indigo-300 bg-violet-400 bg-purple-500
+bg-fuchsia-600 bg-pink-700 bg-rose-800
+bg-sky-500/100 === bg color with opacity
+bg-[#50d71e] === direct use
+bg-left-top, bg-right-bottom, bg-center === bg position
+bg-no-repeat, bg-repeat-y, bg-repeat-round, bg-repeat-space === bg repect
+bg-auto, bg-cover, bg-contain === background size
+bg-gradient-to-r, bg-gradient-to-br, bg-gradient-to-tl === right, bottom-right, top-left
+bg-gradient-to-r from-pink-500 via-lime-500 via-to-sky-800 === gredient bg
+
+
+-------------------------------------------------------------------------
+
+7.Borders
+
+rounded, rounded-md, rounded-lg, rounded-full === border round
+border-2, border-4 === border
+border-x-2, border-y-2, border-r-4, border-l-4 === border problem
+border-violet-100, border-y-pink-900, border-4 border-indigo-500/100 ==== border 
+border-solid, border-dashed, border-dotted === border style
+outline-1, outline-0, outline-4 === border outline
+outline-2 outline-blue-500/50 === outline color border
+outline-dotted, outline-double === outline style
+outline-offset-2, outline-offset-4 === outline offset border
+ring-offset-2 ring-2 === box-shadow
+ring-2 ring-blue-500/50 === ring color
+ring-offset-2 ring-offset-slate-100 === ring offset color
+
+-------------------------------------------------------------------------
+
+8.Effects
+
+shadow-md, shadow-lg, shadow-xl, shadow-2xl === shadow
+shadow-indigo-500/40 === shadow color
+opacity-50, opacity-75, opacity-100 === opacity
+mix-blend-multiply === two circle together
+
+
+-------------------------------------------------------------------------
+
+9.Filters
+
+blur-sm, blur-lg === blur
+brightness-50, brightness-100, brightness-200 === brightness
+contrast-50, contrast-100, contrast-200 === contrast
+drop-shadow-lg, drop-shadow-xl, drop-shadow-2xl === drop-shadow
+grayscale-0, grayscale === grayscale
+hue-rotate-90, hue-rotate-180, -hue-rotate-60 === hue-rotate
+invert-0, invert === invert
+saturate-100, saturate-150, saturate-200 === saturate
+sepia-0, sepia === sepia
+backdrop-blur-md, backdrop-blur-xl === backdrop-blur
+ackdrop-grayscale, backdrop-contrast-200, backdrop-brightness-200
+backdrop-hue-rotate-180, backdrop-invert, backdrop-opacity-95
+backdrop-saturate-200, backdrop-sepia
+
+
+-------------------------------------------------------------------------
+
+10.Tables
+
+border-collapse, border-separate === border
+border border-slate-300
+border-spacing-2
+table-auto, table-fixed
+
+
+-------------------------------------------------------------------------
+
+11.Transitions & Animation
+
+transition, transition-shadow, transition-transform === transition
+duration-150, duration-300, duration-700 === duration
+ease-in, ease-in-out, ease-out === transition timing
+delay-150, delay-300, delay-700 === delay
+animate-spin, animate-ping, animate-pulse, animate-bounce === animation
+
+-------------------------------------------------------------------------
+
+12.Transforms
+
+scale-125, scale-50, -scale-50, transform-gpu === transform
+rotate-45, rotate-90, rotate-180 === rotate
+translate-y-6, -translate-y-6 === translate
+skew-y-6, skew-y-12 === skew 
+origin-center, origin-top-left === origin
+
+-------------------------------------------------------------------------
+
+13.Interactivity
+
+cursor-auto, cursor-pointer, cursor-progress, cursor-zoom-in === cursor
+caret-pink-500, resize-y === caret color + resize
+scroll-smooth, scroll-ml-6, scroll-pl-6
+snap-center, snap-start, snap-always, snap-y	
+overflow-auto touch-auto , will-change-scroll
+select-text, select-auto === text highlight
+
+-------------------------------------------------------------------------
+
+14.SVG && 15.Accessibility
+
+fill-blue-500, stroke-cyan-500, stroke-1, stroke-2
+sr-only, not-sr-only === 
+
+-------------------------------------------------------------------------
+
+
+
+
+-------------------------------------------------------------------------
