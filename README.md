@@ -272,12 +272,14 @@ text-teal-200, text-fuchsia-200 </code>  <br/>
   }
  </code>
  
-<h2>grid grid-flow-col</h2> <br/>
-<div class="container mx-auto grid grid-flow-col gap-4"> <br/>
-  <div class="box">1</div> <br/>
-  <div class="box">2</div> <br/> 
-  <div class="box">3</div> <br/>
-</div> <br/>
+ <svg width="100" height="100" xmlns="http://www.w3.org/2000/svg">
+<h2>grid grid-flow-col</h2>  
+<div class="container mx-auto grid grid-flow-col gap-4">  
+  <div class="box">1</div>  
+  <div class="box">2</div>  
+  <div class="box">3</div>  
+</div> 
+</svg>
 
 <h2>grid grid-cols-2</h2> <br/>
 <div class="mt-4 grid grid-cols-2 gap-4"> <br/>
