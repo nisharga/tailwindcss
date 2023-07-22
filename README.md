@@ -4,7 +4,7 @@
 <code><b>npx tailwindcss init -p</b></code></br>
 
 then in tailwind.config.js file write this code.</br>
-<code><b>content: content: ["./src/**/*.{js,jsx,ts,tsx}"],</b>,</code></br>
+<code><b>content: ["./src/**/*.{js,jsx,ts,tsx}"],</b></code></br>
 
 then index.css file paste this code on top
 
