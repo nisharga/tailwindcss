@@ -1,12 +1,12 @@
 <h2>Install Tailwind CSS in React App </h2>
 
 <code><b>npm install -D tailwindcss postcss autoprefixer</b></code></br>
-<code><b>npx tailwindcss init</b></code></br>
+<code><b>npx tailwindcss init -p</b></code></br>
 
 then in tailwind.config.js file write this code.</br>
-<code><b>content: ["./src/**/*.{html,js}"]</b>,</code></br>
+<code><b>content: content: ["./src/**/*.{js,jsx,ts,tsx}"],</b>,</code></br>
 
-then index.css file peast this code on top
+then index.css file paste this code on top
 
 <code><b>@tailwind base;</br>
 @tailwind components;</br>
