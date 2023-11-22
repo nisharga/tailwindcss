@@ -259,3 +259,7 @@ text-teal-200, text-fuchsia-200 </code>  <br/>
 <code>fill-blue-500, stroke-cyan-500, stroke-1, stroke-2</code> === SVG <br/>
 <code>sr-only, not-sr-only </code> === Accessibility <br/>
 
+Imge Responsive: 
+<code>
+<img class="rounded-lg shadow-xl sm:mt-8 sm:h-64 lg:mt-0 sm:w-full sm:object-cover" src="">
+</code>
